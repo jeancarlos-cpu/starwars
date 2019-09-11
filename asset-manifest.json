@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5772444.chunk.css",
-    "main.js": "/static/js/main.b51bf249.chunk.js",
-    "main.js.map": "/static/js/main.b51bf249.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.1fefafac.js",
-    "runtime~main.js.map": "/static/js/runtime~main.1fefafac.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.7f238ee9.chunk.js": "/static/js/2.7f238ee9.chunk.js",
-    "static/js/2.7f238ee9.chunk.js.map": "/static/js/2.7f238ee9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b0e3326d1bb798461cdda0e76d4b0f44.js": "/precache-manifest.b0e3326d1bb798461cdda0e76d4b0f44.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.b5772444.chunk.css.map": "/static/css/main.b5772444.chunk.css.map",
-    "static/media/App.css": "/static/media/Starjout.f72f509a.ttf"
+    "main.css": "/starwars/static/css/main.7aff239a.chunk.css",
+    "main.js": "/starwars/static/js/main.8b10da9f.chunk.js",
+    "main.js.map": "/starwars/static/js/main.8b10da9f.chunk.js.map",
+    "runtime~main.js": "/starwars/static/js/runtime~main.e8e04b7d.js",
+    "runtime~main.js.map": "/starwars/static/js/runtime~main.e8e04b7d.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/starwars/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.7f238ee9.chunk.js": "/starwars/static/js/2.7f238ee9.chunk.js",
+    "static/js/2.7f238ee9.chunk.js.map": "/starwars/static/js/2.7f238ee9.chunk.js.map",
+    "index.html": "/starwars/index.html",
+    "precache-manifest.9e539696256fd21e7ce5f924d62f517b.js": "/starwars/precache-manifest.9e539696256fd21e7ce5f924d62f517b.js",
+    "service-worker.js": "/starwars/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/starwars/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.7aff239a.chunk.css.map": "/starwars/static/css/main.7aff239a.chunk.css.map",
+    "static/media/App.css": "/starwars/static/media/Starjout.f72f509a.ttf"
   }
 }
