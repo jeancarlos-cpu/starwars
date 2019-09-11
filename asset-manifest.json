@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/jeancarlos-cpu/starwars/build/static/css/main.1a70ef83.chunk.css",
+    "main.js": "/jeancarlos-cpu/starwars/build/static/js/main.b34c65c1.chunk.js",
+    "main.js.map": "/jeancarlos-cpu/starwars/build/static/js/main.b34c65c1.chunk.js.map",
+    "runtime~main.js": "/jeancarlos-cpu/starwars/build/static/js/runtime~main.3be48338.js",
+    "runtime~main.js.map": "/jeancarlos-cpu/starwars/build/static/js/runtime~main.3be48338.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/jeancarlos-cpu/starwars/build/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.7f238ee9.chunk.js": "/jeancarlos-cpu/starwars/build/static/js/2.7f238ee9.chunk.js",
+    "static/js/2.7f238ee9.chunk.js.map": "/jeancarlos-cpu/starwars/build/static/js/2.7f238ee9.chunk.js.map",
+    "index.html": "/jeancarlos-cpu/starwars/build/index.html",
+    "precache-manifest.86f602e1645789a1914a8542db69008e.js": "/jeancarlos-cpu/starwars/build/precache-manifest.86f602e1645789a1914a8542db69008e.js",
+    "service-worker.js": "/jeancarlos-cpu/starwars/build/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/jeancarlos-cpu/starwars/build/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.1a70ef83.chunk.css.map": "/jeancarlos-cpu/starwars/build/static/css/main.1a70ef83.chunk.css.map",
+    "static/media/App.css": "/jeancarlos-cpu/starwars/build/static/media/Starjout.f72f509a.ttf"
+  }
+}
